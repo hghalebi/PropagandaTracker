@@ -15,7 +15,7 @@ Propaganda Tracker
 # PropagandaTracker
 
 Welcome to **Propaganda Tracker**! Our goal is to create a tool that can identify and flag propaganda bots and organizations on online social networks. We believe that it is important to be able to recognize and combat the spread of misinformation and propaganda online, and this tool is designed to help users do just that.
-How to Contribute
+
 ![](https://i.imgur.com/gFyppvN.jpg)
 
 
