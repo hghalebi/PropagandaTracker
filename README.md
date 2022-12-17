@@ -48,3 +48,8 @@ How to Contribute
 1. Spreading the word about the project to your network and encouraging others to get involved.
 
 Overall, there are many ways to contribute to the development of this project, even if you are not a technical expert. By getting involved and collaborating with others, you can help make a positive impact on the online environment and fight the spread of propaganda and misinformation.
+
+# Our discord community
+
+If you would like to join our Discord community, please follow [this link](https://discord.gg/9EFAYgJE) . We look forward to chatting with you and working together to build a more transparent and trustworthy online environment
+
