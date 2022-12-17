@@ -12,14 +12,14 @@ Propaganda Tracker
 [TOC]
 
 
-# PropagandaTracker
+# PropagandaTracker  :boom:
 
 Welcome to **Propaganda Tracker**! Our goal is to create a tool that can identify and flag propaganda bots and organizations on online social networks. We believe that it is important to be able to recognize and combat the spread of misinformation and propaganda online, and this tool is designed to help users do just that.
 
 ![](https://i.imgur.com/gFyppvN.jpg)
 
 
-# Contributing to the project include:
+# Contributing to the project include::open_file_folder:
 
 
 
@@ -32,7 +32,7 @@ Welcome to **Propaganda Tracker**! Our goal is to create a tool that can identif
 
 1. By getting involved in these activities and collaborating with others, you can help shape the direction and development of the project and make a positive impact on the online environment.
 
-# How to Get Involved
+# How to Get Involved :thought_balloon:
 
 1. There are several ways to get involved in this project, even if you are not sure how to contribute code. Some ideas include:
 
@@ -49,7 +49,10 @@ Welcome to **Propaganda Tracker**! Our goal is to create a tool that can identif
 
 Overall, there are many ways to contribute to the development of this project, even if you are not a technical expert. By getting involved and collaborating with others, you can help make a positive impact on the online environment and fight the spread of propaganda and misinformation.
 
-# Our discord community
+# Our political affiliation :red_circle:
+We want to emphasize that **Propaganda Tracker** is an apolitical tool that is focused on identifying and flagging propaganda bots and organizations on online social networks. We do not have any political affiliations or biases, and our goal is simply to help users identify and combat the spread of misinformation and propaganda online. We welcome contributions from all members of the community, regardless of their political beliefs or affiliations.
+
+# Our discord community :calling:
 
 If you would like to join our Discord community, please follow [this link](https://discord.gg/9EFAYgJE) . We look forward to chatting with you and working together to build a more transparent and trustworthy online environment
 
