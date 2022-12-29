@@ -54,5 +54,5 @@ We want to emphasize that **Propaganda Tracker** is an apolitical tool that is f
 
 # Our discord community :calling:
 
-If you would like to join our Discord community, please follow [this link](https://discord.gg/9EFAYgJE) . We look forward to chatting with you and working together to build a more transparent and trustworthy online environment
+If you would like to join our Discord community, please follow [this link](https://discord.gg/azae5pyuA9) . We look forward to chatting with you and working together to build a more transparent and trustworthy online environment
 
